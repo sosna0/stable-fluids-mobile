@@ -2,7 +2,7 @@
 
 stable-fluids-mobile is a simple app based on Mike Ash article [Fluid Simulation for Dummies](https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html).
 
-<img alt="Screenshot_2026-11-03-20-19-04-175_com raylib raymob" src="https://github.com/user-attachments/assets/0ae1f3a2-3680-429e-ae1f-df59c3169d9b" />
+<img width="512" alt="Screenshot_2026-11-03-20-19-04-175_com raylib raymob" src="https://github.com/user-attachments/assets/0ae1f3a2-3680-429e-ae1f-df59c3169d9b" />
 
 ## How to use
 
